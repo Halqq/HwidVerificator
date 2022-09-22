@@ -1,0 +1,2 @@
+# HwidVerificator
+java hwid verificator
